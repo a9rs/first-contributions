@@ -222,6 +222,7 @@ z54c6hf
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [AKM123HKM](https://github.com/AKM123HKM) - First contribution!
 - [Lekkso](https://github.com/Lekkso) - Hello from Georgia! ,
+- [A9R](https://github.com/a9rs) - seal
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [hardik] - This is my first contribution.
 - [fekojewan](https://github.com/kennedys0). - First step to the world of Open Source!
